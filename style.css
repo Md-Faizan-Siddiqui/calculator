@@ -1,0 +1,18 @@
+.cl {
+    width: 210px;
+}
+.formstyle {
+    width: 220px;
+    height: 220px;
+    margin: 0 auto;
+    padding: 2px;
+    border: 1px solid black;
+}
+input {
+    width: 50px;
+    background-color: rgb(81, 83, 80);
+    color: white;
+}
+.ans {
+    width: 205px;
+}
